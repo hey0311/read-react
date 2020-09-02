@@ -1,0 +1,30 @@
+{
+  "name": "simple-log-webpack-plugin",
+  "version": "0.1.2",
+  "description": "Intends to make it simpler with webpack-system  when using console.log",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/windFollower29/simple-log-webpack-plugin.git"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "webpack": "^4.28.4",
+    "webpack-cli": "^3.2.3"
+  },
+  "keywords": [
+    "webpack",
+    "plugin",
+    "console",
+    "log",
+    "simple",
+    "enhance"
+  ],
+  "author": "winder",
+  "license": "ISC",
+  "dependencies": {
+    "color-hash": "^1.0.3"
+  }
+}
